@@ -10,4 +10,4 @@ This Python project automates the tracking of product prices on Amazon. It colle
 
 * Secure environment using .env for sensitive credentials.<br><br>
 
-**P.S.** This project was built with the help [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
+**P.S.** This project was built with the help of [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst).
